@@ -21,12 +21,14 @@ The goal of this project is to understand how network ports work and how devices
 
 ---
 
-## 🚀 How to Use
-```bash
-python scanner.py
-
-
 🧠 What I Learned
 Basics of network communication
 How ports are used by services
 TCP connection testing with sockets
+
+---
+
+## 🚀 How to Use
+```bash
+python scanner.py
+
